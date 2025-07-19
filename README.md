@@ -368,5 +368,6 @@ For answers to common questions, issues, and to see a list of recommended models
 bolt.diy source code is distributed as MIT, but it uses WebContainers API that [requires licensing](https://webcontainers.io/enterprise) for production usage in a commercial, for-profit setting. (Prototypes or POCs do not require a commercial license.) If you're using the API to meet the needs of your customers, prospective customers, and/or employees, you need a license to ensure compliance with our Terms of Service. Usage of the API in violation of these terms may result in your access being revoked.
 <!-- dummy change -->
 <!-- dummy change -->
+<!-- dummy change -->
 
 
